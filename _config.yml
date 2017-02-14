@@ -32,3 +32,4 @@ address_zip: South Africa
 
 # Build settings
 markdown: kramdown
+exclude: [README.md,LICENSE,run.sh]
