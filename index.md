@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Measles dynamics
+title: Measles in schools
 ---
